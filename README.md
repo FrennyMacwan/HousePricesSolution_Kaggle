@@ -1,4 +1,3 @@
 # HousePricesSolution_Kaggle
 
-
-still in progress..
+This is house price prediction challenge from kaggle.
